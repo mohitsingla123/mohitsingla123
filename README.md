@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data Structure
-- 🌱 I’m currently learning Cyber Security
+- 🔭 I’m currently working on Data Structure.
+- 🌱 I’m currently learning Cyber Security.
 
 
 
