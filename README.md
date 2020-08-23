@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data Structure.
+- 🔭 I’m currently working on Data Structure and HackerRank Problem Solving.
 - 🌱 I’m currently learning Cyber Security.
 
 
