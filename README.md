@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on Data Structure and HackerRank Problem Solving.
 - 🌱 I’m currently learning Cyber Security.
 
-<img align="left" width="100px" src="https://tryhackme-badges.s3.amazonaws.com/deadking.png" />
-
 
 
 
