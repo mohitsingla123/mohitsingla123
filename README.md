@@ -18,7 +18,3 @@
 </a>
 <br>
 <img align="right" src="https://rushter.com/counter.svg">
-
-
-
-
