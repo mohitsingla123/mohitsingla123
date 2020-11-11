@@ -22,4 +22,4 @@
 <img align="right" src="https://rushter.com/counter.svg">
 
 
-- Currently looking job, as Fresher.
+#### Currently looking job, as Fresher.
