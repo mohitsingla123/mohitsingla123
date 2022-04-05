@@ -3,8 +3,8 @@
 ### Welcome to My GitHub profile.
 
 
-- 🔭 I’m currently working on Data Structure, Dynamic Programing, and HackerRank Problem Solving.
-- 🌱 I’m currently learning Cyber Security.
+- 🔭 Working in RedHat as Software Engineer, Current project - RedHat Insights
+- 🌱 Wants to work in Cyber Security field someday soon.
 
 
 
